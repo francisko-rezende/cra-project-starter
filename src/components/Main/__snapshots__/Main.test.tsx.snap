@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`that Main renders properly 1`] = `
+<main
+  class="sc-bdvvtL jqyDsU"
+>
+  <h1
+    class="sc-gsDKAQ eLyGkf"
+  >
+    CRA Project Starter
+  </h1>
+  <h2
+    class="sc-dkPtRN"
+  >
+    A CRA template that includes ESLINT/Prettier, Styled Components and Storybook
+  </h2>
+</main>
+`;
