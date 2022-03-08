@@ -24,7 +24,8 @@
     "eject": "react-scripts eject",
     "lint": "eslint src",
     "storybook": "start-storybook -p 6006 -s public",
-    "build-storybook": "build-storybook -s public"
+    "build-storybook": "build-storybook -s public",
+    "generate": "yarn plop --plopfile ./generators/plopfile.js"
   },
   "browserslist": {
     "production": [
@@ -63,6 +64,7 @@
     "eslint-plugin-storybook": "^0.5.7",
     "husky": "^7.0.4",
     "jest-styled-components": "^7.0.8",
+    "plop": "^3.0.5",
     "prettier": "2.5.1",
     "webpack": "^5.70.0"
   },
